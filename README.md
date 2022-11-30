@@ -4,7 +4,7 @@
 )](https://www.devluis.inovaassessoriadigital.com.br/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-henrique-reinhold-pav%C3%A3o-942b39152/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?devLuiss=anuraghazra&show_icons=true&theme=radical)
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devLuiss&show_icons=true&theme=dracula&count_private=true)
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
