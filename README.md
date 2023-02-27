@@ -14,7 +14,7 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 </div>
-<a href="https://app.daily.dev/luispavao"><img src="https://api.daily.dev/devcards/af925cb171f445549aa156309e7e10c6.png?r=khn" width="200" alt="Luis Henrique's Dev Card"/></a>
+
 <br/>
 
-
+<a href="https://app.daily.dev/luispavao"><img src="https://api.daily.dev/devcards/af925cb171f445549aa156309e7e10c6.png?r=khn" width="200" alt="Luis Henrique's Dev Card"/></a>
