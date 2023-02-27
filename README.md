@@ -15,4 +15,4 @@
 
 </div><br/>
 
-<a href="https://app.daily.dev/luispavao"><img src="https://api.daily.dev/devcards/af925cb171f445549aa156309e7e10c6.png?r=khn" width="400" alt="Luis Henrique's Dev Card"/></a>
+<a href="https://app.daily.dev/luispavao"><img src="https://api.daily.dev/devcards/af925cb171f445549aa156309e7e10c6.png?r=khn" width="200" alt="Luis Henrique's Dev Card"/></a>
