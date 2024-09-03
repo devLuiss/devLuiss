@@ -15,7 +15,6 @@
   <a href="https://app.daily.dev/luispavao"><img src="https://api.daily.dev/devcards/af925cb171f445549aa156309e7e10c6.png?r=khn" width="145" alt="Luis Henrique's Dev Card"/></a>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=devLuiss&theme=dracula" alt="GitHub Streak" /></a>
 </div>
-![GitHub Commits](https://img.shields.io/github/commit-activity/m/devLuiss/repo-name?color=brightgreen)
 
 ### TOTAL: [![wakatime](https://wakatime.com/badge/user/96dbbdee-cacf-4160-9e5c-6f143d86bb39.svg)](https://wakatime.com/@96dbbdee-cacf-4160-9e5c-6f143d86bb39)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@devLuiss&width="200")](https://github.com/anuraghazra/github-readme-stats)
