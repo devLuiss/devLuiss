@@ -14,10 +14,11 @@
   
 </div>
 <br/>
+<div>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=devLuiss&theme=dracula)](https://git.io/streak-stats)
 
 <a href="https://app.daily.dev/luispavao"><img src="https://api.daily.dev/devcards/af925cb171f445549aa156309e7e10c6.png?r=khn" width="145" alt="Luis Henrique's Dev Card"/></a>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=devLuiss&theme=dracula)](https://git.io/streak-stats)
+</div>
 
 
 ### TOTAL: [![wakatime](https://wakatime.com/badge/user/96dbbdee-cacf-4160-9e5c-6f143d86bb39.svg)](https://wakatime.com/@96dbbdee-cacf-4160-9e5c-6f143d86bb39)
