@@ -1,5 +1,3 @@
-ajuste:
-
 ### Ola ! Me chamo luis henrique, bem vindo ao meu GITHUB! ✌️[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-henrique-reinhold-pav%C3%A3o-942b39152/) 
 <br/>
 
@@ -10,15 +8,13 @@ ajuste:
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nextjs" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  
 </div>
 <br/>
 
-<a href="https://app.daily.dev/luispavao"><img src="https://api.daily.dev/devcards/af925cb171f445549aa156309e7e10c6.png?r=khn" width="145" alt="Luis Henrique's Dev Card"/></a>
-
+<div style="display: flex; align-items: center;">
+  <a href="https://app.daily.dev/luispavao"><img src="https://api.daily.dev/devcards/af925cb171f445549aa156309e7e10c6.png?r=khn" width="145" alt="Luis Henrique's Dev Card"/></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=devLuiss&theme=dracula" alt="GitHub Streak" /></a>
+</div>
 
 ### TOTAL: [![wakatime](https://wakatime.com/badge/user/96dbbdee-cacf-4160-9e5c-6f143d86bb39.svg)](https://wakatime.com/@96dbbdee-cacf-4160-9e5c-6f143d86bb39)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@devLuiss&width="200")](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=devLuiss&theme=dracula)](https://git.io/streak-stats)
-
