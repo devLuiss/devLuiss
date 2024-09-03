@@ -18,9 +18,7 @@ ajuste:
 
 
 ### TOTAL: [![wakatime](https://wakatime.com/badge/user/96dbbdee-cacf-4160-9e5c-6f143d86bb39.svg)](https://wakatime.com/@96dbbdee-cacf-4160-9e5c-6f143d86bb39)
-<div style="display: inline_block, align-itens:"flex-start">  
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@devLuiss&width="200")](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devLuiss&theme=dracula)](https://git.io/streak-stats)
 
