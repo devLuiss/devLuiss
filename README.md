@@ -24,7 +24,6 @@
 style="display: inline_block, align-itens:"flex-start"  >
   
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@devLuiss&width="200")](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devLuiss)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
